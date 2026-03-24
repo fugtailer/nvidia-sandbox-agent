@@ -1,0 +1,5 @@
+{
+  "nvidia_api_key": "YOUR_NVIDIA_API_KEY_HERE",
+  "default_model": "claude-3.5-sonnet",
+  "command_timeout_seconds": 300
+}
